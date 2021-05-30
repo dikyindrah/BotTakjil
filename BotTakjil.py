@@ -43,10 +43,6 @@ takjil = [
 
 takjil_pesanan = [[], []]
 
-biaya_antar = 2000
-status_pesanan = 'Belum dibayar'
-
-
 huruf_kecil = True
 
 sudah_pesan_takjil = False
@@ -59,6 +55,8 @@ rute_alamat = False
 alamat_pelanggan = ''
 
 rute_pembayaran = False
+biaya_antar = 2000
+status_pesanan = 'Belum dibayar'
 
 @app.route('/chat', methods=['POST'])
 def chat():
