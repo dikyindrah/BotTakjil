@@ -18,7 +18,7 @@
 - Merespon sesuai perintah yang diberikan
 
 ### 👨‍💻 Penggunaan
-Kirim sandbox melalui <a href="https://wa.me/14155238886?text=join%20made-hunt" target="_blank"><b>alamat ini</b></a>, kemudian berikan perintah `#menu` 
+Kirim sandbox melalui **[alamat ini](https://wa.me/14155238886?text=join%20made-hunt)**, kemudian berikan perintah `#menu` 
 
 ### 📝 Perintah
 
