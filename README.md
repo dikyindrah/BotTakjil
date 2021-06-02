@@ -18,9 +18,19 @@
 - Merespon sesuai perintah yang diberikan
 
 ### 👨‍💻 Penggunaan
-Kirim sandbox melalui **[alamat ini](https://wa.me/14155238886?text=join%20made-hunt)**, kemudian berikan perintah `#menu` 
+Kirim pesan sandbox `join made-hunt` melalui **[alamat ini](https://wa.me/14155238886?text=join%20made-hunt)**. Selanjutnya kirim pesan berupa perintah `#menu` 
 
 ### 📝 Perintah
-
+Perintah | Keterangan
+---|---
+`join made-hunt` | Sandbox
+`#menu`  | Menampilkan menu utama
+`#PesanTakjil` | Memesan takjil
+`#Lagi` | Jika ingin memesan takjil lagi
+`#Cukup` | Jika tidak ingin memesan takjil lagi
+`#DaftarTakjil` | Melihat daftar takjil yang tersedia
+`#InfoWarung` | Melihat informasi warung
+`#Batal` | Membatalkan pesanan
+`1-15` | Nomor takjil
 
 ### 📷 Screnshots
