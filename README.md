@@ -1,6 +1,6 @@
 <h1 align="center"><img alt="bot takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/bot_takjil.png" width="250"></h1>
 
-<h3 align="center"><i><b>WhatsApp Chatbot Untuk Melayani Pembelian Takjil</b></i></h3>
+<h3 align="center"><b>WhatsApp Chatbot Untuk Melayani Pembelian Takjil</b></h3>
 
 <p align="center">
   <img alt="build with" src="https://img.shields.io/badge/build%20with-python%2C%20flask%2C%20twilio-blue">
@@ -12,10 +12,13 @@
 </p>
 
 ### ✅ Fitur
-
+- Menghitung jumlah pesanan
+- Menghitung total harga pesanan
+- Validasi bukti pembayaran
+- Merespon sesuai perintah yang diberikan
 
 ### 👨‍💻 Penggunaan
-
+Kirim sandbox melalui <a href="https://wa.me/14155238886?text=join%20made-hunt" target="_blank"><b>alamat ini</b></a>, kemudian berikan perintah `#menu` 
 
 ### 📝 Perintah
 
