@@ -35,3 +35,8 @@ Perintah | Keterangan
 `1-15` | Nomor takjil
 
 ### 📷 Screnshots
+<img alt="menu" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/menu.png" width="150"> <img alt="daftar_takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/daftar_takjil.png" width="150">
+<img alt="info_warung" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/info_warung.png" width="150">
+<img alt="batal" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/batal.png" width="150">
+<img alt="pesan_takjil1" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/pesan_takjil1.png" width="150">
+<img alt="pesan_takjil2" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/pesan_takjil2.png" width="150">
