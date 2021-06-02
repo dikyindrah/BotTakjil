@@ -1,5 +1,7 @@
-<h1 align="center">🤖 BotTakjil</h1>
-<h3 align="center">WhatsApp Chatbot Untuk Melayani Pembelian Takjil</h3>
+<h3 align="center"><img alt="bot takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/bot%20takjil.png" width="200">
+<br>
+  WhatsApp Chatbot Untuk Melayani Pembelian Takjil
+</h3>
 <p align="center">
   <img alt="build with" src="https://img.shields.io/badge/build%20with-python%2C%20flask%2C%20twillio-blue">
   <img alt="code size" src="https://img.shields.io/github/languages/code-size/dikyindrah/BotTakjil">
