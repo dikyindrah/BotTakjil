@@ -12,13 +12,14 @@
 </p>
 
 ### ✅ Fitur
+- Merespon sesuai perintah yang diberikan
 - Menghitung jumlah pesanan
 - Menghitung total harga pesanan
 - Validasi bukti pembayaran
-- Merespon sesuai perintah yang diberikan
 
 ### 👨‍💻 Penggunaan
-Kirim pesan sandbox `join made-hunt` melalui **[alamat ini](https://wa.me/14155238886?text=join%20made-hunt)**. Selanjutnya kirim pesan berupa perintah `#menu` 
+1. Kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**. 
+2. Selanjutnya kirim pesan berupa perintah `#menu` 
 
 ### 📝 Perintah
 Perintah | Keterangan
