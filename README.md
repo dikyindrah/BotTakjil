@@ -11,13 +11,13 @@
   <img alt="repo forks" src="https://img.shields.io/github/forks/dikyindrah/BotTakjil?style=social">
 </p>
 
-## ✅ Fitur
+### ✅ Fitur
 
 
-## 👨‍💻 Penggunaan
+### 👨‍💻 Penggunaan
 
 
-## 💻 Perintah
+### 📝 Perintah
 
 
-## 📷 Screnshots
+### 📷 Screnshots
