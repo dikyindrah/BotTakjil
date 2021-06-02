@@ -1,4 +1,4 @@
-<h3 align="center"><img alt="bot takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/bot%20takjil.png" width="200">
+<h3 align="center"><img alt="bot takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/bot%20takjil%203.png" width="200">
 <br>
   WhatsApp Chatbot Untuk Melayani Pembelian Takjil
 </h3>
