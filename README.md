@@ -12,7 +12,7 @@
 </p>
 
 ### Deskripsi
-Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twilio untuk layanan delivery takjil. Aplikasi ini sudah di deploy ke [Heroku](https://www.heroku.com) dan sudah siap digunakan untuk kebutuhan prototype. 
+Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twilio untuk layanan delivery takjil. Aplikasi ini sudah di deploy ke [Heroku](https://www.heroku.com) dan sudah siap digunakan untuk kebutuhan prototype (Coba versi demo). 
 > **Note:** Saat mencoba demo. Harap memberikan perintah secara berulang jika perintah yang diberikan tidak direspon atau sudah memberikan perintah dengan benar namun tidak mendapat balasan yang sesuai.
 
 ### ✅ Fitur
@@ -59,4 +59,9 @@ Perintah | Keterangan
 <img alt="info_warung" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/info_warung.png" width="150">
 <img alt="batal" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/batal.png" width="150">
 <img alt="pesan_takjil1" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/pesan_takjil1.png" width="150">
+<img alt="nomor_takjil" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/nomor%20takjil.png" width="150">
+<img alt="cukup" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/cukup.png" width="150">
+<img alt="nama" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/nama.png" width="150">
+<img alt="alamat" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/alamat.png" width="150">
+
 <img alt="pesan_takjil2" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/pesan_takjil2.png" width="150">
