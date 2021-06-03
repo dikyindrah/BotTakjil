@@ -63,5 +63,4 @@ Perintah | Keterangan
 <img alt="cukup" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/cukup.png" width="150">
 <img alt="nama" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/nama.png" width="150">
 <img alt="alamat" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/alamat.png" width="150">
-
 <img alt="pesan_takjil2" src="https://github.com/dikyindrah/BotTakjil/blob/main/img/pesan_takjil2.png" width="150">
