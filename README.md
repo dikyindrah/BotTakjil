@@ -12,7 +12,7 @@
 </p>
 
 ### Deskripsi
-Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twilio untuk layanan delivery takjil. Aplikasi ini sudah di deploy ke [Heroku](https://www.heroku.com) dan sudah siap digunakan untuk kebutuhan prototype. 
+Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twilio untuk layanan delivery takjil. Aplikasi ini sudah di deploy ke [Heroku](https://www.heroku.com) dan sudah siap digunakan untuk kebutuhan prototype ([Demo](Demo)). 
 > **Note:** Saat mencoba demo. Harap memberikan perintah secara berulang jika perintah yang diberikan tidak direspon atau sudah memberikan perintah dengan benar namun tidak mendapat balasan yang sesuai.
 
 ### ✅ Fitur
