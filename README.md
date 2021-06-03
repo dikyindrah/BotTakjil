@@ -1,6 +1,6 @@
 <h1 align="center"><img alt="bot takjil" src="https://raw.githubusercontent.com/dikyindrah/BotTakjil/main/img/bot_takjil.png" width="250"></h1>
 
-<h3 align="center"><b>WhatsApp Chatbot Untuk Melayani Pembelian Takjil</b></h3>
+<h3 align="center"><b>WhatsApp Chatbot Untuk Layanan Delivery Takjil</b></h3>
 
 <p align="center">
   <img alt="build with" src="https://img.shields.io/badge/build%20with-python%2C%20flask%2C%20twilio-blue">
@@ -11,14 +11,34 @@
   <img alt="repo forks" src="https://img.shields.io/github/forks/dikyindrah/BotTakjil?style=social">
 </p>
 
+### Deskripsi
+Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twilio. Aplikasi ini sudah di deploy ke [Heroku](https://www.heroku.com) dan sudah siap digunakan untuk kebutuhan prototype. 
+> **Note:** Saat mencoba demo. Harap memberikan perintah secara berulang jika perintah yang diberikan tidak direspon atau sudah memberikan perintah dengan benar namun tidak mendapat balasan yang sesuai.
+
 ### ✅ Fitur
-- Merespon sesuai perintah yang diberikan
-- Menghitung jumlah pesanan
-- Menghitung total harga pesanan
-- Validasi bukti pembayaran
+- [x] Merespon sesuai perintah yang diberikan
+- [x] Menghitung jumlah pesanan
+- [x] Menghitung total harga pesanan
+- [x] Validasi bukti pembayaran
 
 ### 👨‍💻 Penggunaan
-1. Kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**. 
+**Localhost:**
+1. Install python-3.8.0
+2. Install Flask dengan perintah `pip install Flask` 
+3. Install Twilio dengan perintah `pip intall twilio`
+4. Download [ngrok](https://ngrok.com/download)
+5. Daftar akun [twilio](https://www.twilio.com/try-twilio)
+6. Buka dan jalankan kode program
+7. Buka ngrok dan aktifkan HTTP Server dengan perintah `ngrok http 5000`
+8. Copy url Forwarding dari HTTP Server, biasanya seperti ini `https://bbd9c73972fc.ngrok.io` tambahkan `/chat` pada bagian akhir url tersebut dan pastikan sudah menjadi seperti ini `https://bbd9c73972fc.ngrok.io/chat`
+10. Masuk dan buka pengaturan [sandbox](https://www.twilio.com/console/sms/whatsapp/sandbox) pada website twilio
+11. Paste url yang telah di copy ke bagian **WHEN A MESSAGE COMES IN**
+12. Save pengaturan sandbox pada twilio
+13. Buka whatsapp kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**
+14. Selanjutnya kirim pesan berupa perintah `#menu` 
+
+**Demo:**
+1. Kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**
 2. Selanjutnya kirim pesan berupa perintah `#menu` 
 
 ### 📝 Perintah
