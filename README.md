@@ -16,12 +16,19 @@ Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twil
 > **Note:** Saat mencoba demo. Harap memberikan perintah secara berulang jika perintah yang diberikan tidak direspon atau sudah memberikan perintah dengan benar namun tidak mendapat balasan yang sesuai.
 
 ### ✅ Fitur
-- [x] Merespon sesuai perintah yang diberikan
-- [x] Menghitung jumlah pesanan
-- [x] Menghitung total harga pesanan
-- [x] Validasi bukti pembayaran
+- Merespon sesuai perintah yang diberikan
+- Menghitung jumlah pesanan
+- Menghitung total harga pesanan
+- Validasi bukti pembayaran
 
 ### 👨‍💻 Penggunaan
+**Demo:**
+1. Kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**
+2. Selanjutnya kirim pesan berupa perintah `#menu` 
+
+
+Jika anda ingin mencoba di komputer anda sendiri, lakukan langkah-langkah berikut.
+
 **Localhost:**
 1. Install python-3.8.0
 2. Install Flask dengan perintah `pip install Flask` 
@@ -36,10 +43,6 @@ Ini adalah whatsapp chatbot sederhana yang dibuat dengan python, flask, dan twil
 12. Save pengaturan sandbox pada twilio
 13. Buka whatsapp kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**
 14. Selanjutnya kirim pesan berupa perintah `#menu` 
-
-**Demo:**
-1. Kirim pesan sandbox `join made-hunt` ke nomor **[+14155238886](https://wa.me/14155238886?text=join%20made-hunt)**
-2. Selanjutnya kirim pesan berupa perintah `#menu` 
 
 ### 📝 Perintah
 Perintah | Keterangan
